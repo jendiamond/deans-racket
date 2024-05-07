@@ -63,7 +63,6 @@ background-size: 28.28px 28.28px;
   margin-bottom: 10px;
   padding: 25px;
   font-size: 5rem;
-  color:#358cd9;
   color: black;
 }
 
